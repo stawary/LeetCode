@@ -1,6 +1,6 @@
 # LeetCode
 LeetCode 刷题记录
 
-| Plugin | README |
+| 题号| 题目 |
 | ------ | ------ |
-| Dropbox | 11111111111 |
+| 1 | Two Sum |
