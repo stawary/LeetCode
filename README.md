@@ -5,5 +5,5 @@ LeetCode 刷题记录
 | ------ | ------ | ------ |
 | 1 | [Two Sum](/LeetCode/Two_Sum.py)| 哈希算法 |
 | 2 | [Add Two Numbers](/LeetCode/Add_Two_Numbers.py)| 链表 |
-| 6 | [Reverse Integer](/LeetCode/Reverse_Integer.py)| xx  |
+| 6 | [Reverse Integer](/LeetCode/Reverse_Integer.py)| 32位整数范围、列表反转 |
 
