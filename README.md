@@ -4,3 +4,4 @@ LeetCode 刷题记录
 | 题号| 题目 |
 | ------ | ------ |
 | 1 | [Two Sum](/LeetCode/Two_Sum.py)|
+| 2 | [Add Two Numbers](/LeetCode/Two_Sum.py)|
