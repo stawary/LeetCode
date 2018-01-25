@@ -22,4 +22,6 @@ class Solution:
                     result.append(j)
         return result
       
-#时间复杂度 O(n​2​​ )
+#时间复杂度 O(n2)，循环遍历列表所有元素，找到可以配对的值。最蛮力的方法。
+#python的此种方法如果数量级很大，会时间超限。
+
