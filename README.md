@@ -9,4 +9,7 @@ LeetCode 刷题记录
 | 4 | [Median of Two Sorted Arrays 两个排序数组的中位数](/LeetCode/Median_of_Two_Sorted_Arrays.py)| xx | 超难 |
 | 5 | [Longest Palindromic Substring 最长回文子串](/LeetCode/Longest_Palindromic_Substring.py)| xx | 难 |
 | 7 | [Reverse Integer 整数反转](/LeetCode/Reverse_Integer.py)| 32位整数范围、列表反转 | 中 |
+| 50 | [Pow(x, n)](/LeetCode/Pow(x, n).py)| 指数运算 | 中 |
+|  | [](/LeetCode/)|  |  |
+|  | [](/LeetCode/)|  |  |
 
