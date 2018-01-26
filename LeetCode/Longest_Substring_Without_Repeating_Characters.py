@@ -1,4 +1,5 @@
 #Given a string, find the length of the longest substring without repeating characters.
+#给定字符串，找到最长的没有相同字符的子串，返回其长度。
 #Examples:
 
 #Given "abcabcbb", the answer is "abc", which the length is 3.
@@ -38,3 +39,6 @@ class Solution:
 
             used[c] = i #以字符内容为键，字符的索引为值，构建字典，字典的in方法可以判断值是否存在于字典内。且字典内不允许有重复的值
         return max_length
+    
+#这种方法可以理解为滑动窗原理，以一个区间[i,j)往后面移动。初始i=j，判断j的字符是否在索引对应的字符里面，不在j就继续后移，直到有相同的字符在区间内。
+#然后更新i的值为j+1。
