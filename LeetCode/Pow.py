@@ -19,3 +19,6 @@ class Solution:
         for i in range(abs(n)):
             ans = ans*x
         return ans
+#x相乘n次，时间复杂度O(n)
+
+#第二种优化，考虑只计算到x的n/2次方，假设结果为A，那x的n次方结果就是A*A。需要考虑n的奇偶性，x循环次数减少一半，时间复杂度O(log(n))。
